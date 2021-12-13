@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
 #products {
     background-color: #fff;
 }
@@ -78,5 +78,5 @@ small {
 body {
     font-family: 'Montserrat', sans-serif;
 }
-
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
 
