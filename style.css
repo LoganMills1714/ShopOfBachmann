@@ -92,4 +92,12 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+.img-with-text {
+    text-align: justify;
+    width: [width of img];
+}
 
+.img-with-text img {
+    display: block;
+    margin: 0 auto;
+}
